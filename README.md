@@ -9,7 +9,7 @@ This project involves the feedback control of a modular proprioceptive soft actu
 - **File**: `soft_actuator_control.ino`
 - **Purpose**: This Arduino code is responsible for controlling the bend angle of a soft actuator. It uses a PID controller to adjust the actuator's angle based on sensor feedback.
 - **Authors**: Jonathan Tirado, Joséphine Moisson de Vaux
-- **Date**: July 14, 2024
+- **Date**: May 13, 2023
 - **Version**: 1.0
 
 #### Key Components
